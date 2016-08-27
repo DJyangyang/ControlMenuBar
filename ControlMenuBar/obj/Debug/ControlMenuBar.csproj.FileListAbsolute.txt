@@ -1,0 +1,14 @@
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\bin\Debug\ControlMenuBar.pdb
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\bin\Debug\MyPluginEngine.dll
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\bin\Debug\log4net.dll
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\bin\Debug\MyPluginEngine.pdb
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.LineChart.resources
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.Properties.Resources.resources
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.csproj.GenerateResource.Cache
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.pdb
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.ColumnChart1.resources
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.ColumnTable.resources
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.LineTable.resources
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\bin\Debug\ControlMenuBar.dll.config
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\bin\Debug\ControlMenuBar.dll
+C:\Users\yangyang123\Desktop\管理措施\ControlMenuBar\ControlMenuBar\obj\Debug\ControlMenuBar.dll
